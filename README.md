@@ -13,7 +13,7 @@ No known bugs
 Technologies Used.
 Html Css JavaScript Support and contact details ginger.lauren@student.moringaschool.com on Slack
 
-PIZZA SYSTEM.
+PIZZA SYSTEM
 
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
