@@ -1,4 +1,4 @@
-# -system2
+# Pizza-stem2
 # GINGER'S PIZZA PLACE
 Web application based on the Pizza system, June, 2021.
 ##By GINGER LAUREN
