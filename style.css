@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+html{
+  scroll-behavior: smooth;
+}
+.logo{
+  width: 80px;
+  height: 80px;
+}
+#header{
+  padding: 2rem 10rem;
+}
+#header,#order{
+  background-color: #000;
+  color: #FDFEFF;
+  background-image: linear-gradient( rgb(3, 1, 1), rgb(7, 5, 5));
+}
+#carusel{
+  text-align: center;
+  padding: 5% 20%;
+}
+#order{
+  padding: 2rem 4rem;
+}
+
+.hero{
+  height: 400px;
+  width: 400px;
+  margin-left: 5rem !important;
+  }
+h1{
+  font-size: 4.5rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
+
+}
+h3{
+  padding-top: 2rem;
+  font-size: 2rem;
+  letter-spacing: .3rem;
+}
+h2,h3,h4,h5,h6,label{
+  font-family: 'DM Sans', sans-serif;
+}
+.carosel-head{
+font-weight: 700;
+font-size: 3rem;
+}
+.pizzeria{
+    letter-spacing: .5rem;
+}
+.pizzeria,.price{
+  color: #FA7D1E;
+
+}
+.price{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.bar{
+  padding: 0 0;
+}
+.content-main{
+padding: 3rem 0;
+}
+.ios{
+  margin-left: 5rem;
+}
+.card-img{
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+}
+.border-bm{
+  width: 20%;
+  margin: 2rem auto;
+  border-bottom: 25px dotted #FA7D1E !important;
+}
+.oder-head h2{
+  text-align: center;
+  padding: 5rem 0;
+  font-weight: 700;
+  font-size: 3rem;
+  letter-spacing: .4rem;
+}
+.crust-head h5,
+.topping-head h5,
+.card-head h5
+{
+  padding: 2rem 0;
+  font-size: 2rem;
+}
+.cris,.stuff,.glut,.mayo-image,.vegan-image,.cheese-image{
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+}
+
+.crust,.tops{
+  padding-bottom: 6rem;
+}
+.fm-content{
+font-size: 2rem;
+}
+.fm-quantity,.fm-size,.fm-delivery{
+  width: 50%;
+  padding: 1rem 0;
+  border-radius: 10px;
+  outline: none;
+  background-color:#cef0f3;
+  border: none;
+}
+.fm-size{
+margin-left: 9.5rem;
+}
+.fm-quantity{
+  margin-left: 6rem;
+  }
+  .fm-delivery{
+    margin-left: 7rem;
+  }
+.fm-quantity:focus{
+  background-color: #FA7D1E;
+  opacity: 1;
+  border: 2px solid white;
+}
+.fm-quantity:hover{
+  border: 2px solid #FA7D1E;
+}
+.size-select{
+  padding: 5rem 0;
+}
+.custom{
+  background-color: #FA7D1E !important;
+  margin-left: 2rem;
+}
+.checkout{
+  margin: 5rem auto;
+  text-align: center;
+  transition: all 1s ease;
+}
+.check{
+  width: 80% !important;
+  background-color: #FA7D1E !important;
+  transition: all 1s ease;
+  
+}
+.check:hover,
+.custom:hover{
+  box-shadow: 4px 4px 4px#241912;
+  background-color: #FDFEFF !important;
+  border: 2px solid #FA7D1E !important; 
+}
+#pricing{
+text-align: center;
+display: flex;
+justify-content: center;
+display: none;
+transition: all 4s ease;
+
+}
+.results{
+  width: 600px;
+  height: 400px;
+  background-color: #FDFEFF;
+  border-radius: 20px;
+  display: flex;
+  color: #000;
+  justify-content: space-around;
+  align-content: center;
+  text-align: center;
+  background-image: radial-gradient(white, black);
+}
+.tick{
+ margin: auto 0;
+}
+
+.result-price{
+  padding-top: 5rem;
+}
+.sucess{
+font-size: 8rem;
+color: #4BB543;
+}
+.re-img{
+height: 150px;
+width: 150px;
+}
+.deliver-text{
+padding: 3rem;
+font-size: 3.5rem;
+text-align: center;
+}
